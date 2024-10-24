@@ -1,4 +1,10 @@
-<h2 align="center">Ola! Sejam bem vindos ao meu Github!</h2>
+<h2 align="center">Ola! Sejam bem vindos ao meu Github! <img src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" height="40" /></h2>
+
+:alien: Me chamo, Wilson Vieira!  
+:mortar_board: Tecnologia em Processamento de Dados e Bacharel em Ciência da Computação  
+:milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
+💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
+:four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
 ###
 
